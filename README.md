@@ -113,7 +113,7 @@ This project is open-source under the MIT License.
 You can use, modify, and distribute it freely under the terms of this license.
 
 💡 Tip
-You can also test the API using cURL:
+You can also test the API using URL:
 
-curl -X GET http://127.0.0.1:8000/api/products/index
+url -X GET http://127.0.0.1:8000/api/products/index
 Made with ❤️ using Laravel 11.
